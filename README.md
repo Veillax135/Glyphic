@@ -41,5 +41,5 @@ MIT License
 
 ## Credits
 
-Created by [Veillax].  
+Created by Veillax.
 Inspired by creative automation and open-source spirit.

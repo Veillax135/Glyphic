@@ -1,0 +1,5 @@
+plugin: KeyboardActionsPlugin
+params:
+  action: "hotkey"
+  keys: ["play/pause media"]
+description: "Toggle media play/pause"

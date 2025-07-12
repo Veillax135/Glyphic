@@ -1,0 +1,817 @@
+2025-07-12 14:20:30,963 INFO Starting MQTT Macropad
+2025-07-12 14:20:30,973 ERROR Failed to load plugin keyboard_actions.py: No module named 'keyboard'
+2025-07-12 14:20:30,981 INFO Loaded plugin: BasePlugin
+2025-07-12 14:20:30,981 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:27:48,629 INFO Starting MQTT Macropad
+2025-07-12 14:27:48,634 ERROR Failed to load plugin keyboard_actions.py: No module named 'keyboard'
+2025-07-12 14:27:48,641 INFO Loaded plugin: BasePlugin
+2025-07-12 14:27:48,641 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:27:55,747 INFO Starting MQTT Macropad
+2025-07-12 14:27:55,751 ERROR Failed to load plugin keyboard_actions.py: No module named 'keyboard'
+2025-07-12 14:27:55,758 INFO Loaded plugin: BasePlugin
+2025-07-12 14:27:55,762 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:28:51,772 INFO Starting MQTT Macropad
+2025-07-12 14:28:51,779 ERROR Failed to load plugin keyboard_actions.py: No module named 'keyboard'
+2025-07-12 14:28:51,790 INFO Loaded plugin: BasePlugin
+2025-07-12 14:28:51,790 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:28:51,838 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:28:51,838 INFO Subscribed to topic: macropad/default_macros
+2025-07-12 14:29:38,901 INFO Starting MQTT Macropad
+2025-07-12 14:29:38,928 INFO Loaded plugin: BasePlugin
+2025-07-12 14:29:38,928 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:29:38,934 INFO Loaded plugin: BasePlugin
+2025-07-12 14:29:38,934 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:29:38,974 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:29:38,974 INFO Subscribed to topic: macropad/default_macros
+2025-07-12 14:30:56,046 INFO Starting MQTT Macropad
+2025-07-12 14:30:56,082 INFO Loaded plugin: BasePlugin
+2025-07-12 14:30:56,082 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:30:56,089 INFO Loaded plugin: BasePlugin
+2025-07-12 14:30:56,090 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:30:56,123 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:30:56,123 INFO Subscribed to topic: macropad/default_macros
+2025-07-12 14:33:12,179 INFO Starting MQTT Macropad
+2025-07-12 14:33:12,210 INFO Loaded plugin: BasePlugin
+2025-07-12 14:33:12,210 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:33:12,215 INFO Loaded plugin: BasePlugin
+2025-07-12 14:33:12,215 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:33:12,245 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:33:12,246 INFO Subscribed to topic: macropad/+
+2025-07-12 14:33:55,666 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:33:55,666 INFO Processing: folder=system, macro_id=lock
+2025-07-12 14:33:55,667 WARNING Macro not found: folder=system, id=lock
+2025-07-12 14:35:20,913 INFO Starting MQTT Macropad
+2025-07-12 14:35:20,964 INFO Loaded plugin: BasePlugin
+2025-07-12 14:35:20,964 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:35:20,977 INFO Loaded plugin: BasePlugin
+2025-07-12 14:35:20,978 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:35:21,010 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:35:21,011 INFO Subscribed to topic: macropad/+
+2025-07-12 14:35:27,029 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:35:27,029 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:35:27,029 WARNING Folder not found in configuration: system
+2025-07-12 14:35:27,030 INFO Available folders: ['default_macros']
+2025-07-12 14:36:44,936 INFO Starting MQTT Macropad
+2025-07-12 14:36:44,962 INFO Loaded plugin: BasePlugin
+2025-07-12 14:36:44,962 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:36:44,969 INFO Loaded plugin: BasePlugin
+2025-07-12 14:36:44,970 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:36:45,011 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:36:45,011 INFO Subscribed to topic: macropad/+
+2025-07-12 14:36:48,563 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:36:48,564 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:36:48,564 WARNING Folder not found in configuration: system
+2025-07-12 14:36:48,564 INFO Available folders: ['default_macros']
+2025-07-12 14:38:32,645 INFO Starting MQTT Macropad
+2025-07-12 14:38:32,670 INFO Loaded plugin: BasePlugin
+2025-07-12 14:38:32,670 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:38:32,676 INFO Loaded plugin: BasePlugin
+2025-07-12 14:38:32,677 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:38:32,710 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:38:32,710 INFO Subscribed to topic: macropad/+
+2025-07-12 14:38:37,021 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:38:37,022 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:38:37,022 WARNING Folder not found in configuration: system
+2025-07-12 14:38:37,022 INFO Available folders: ['default_macros']
+2025-07-12 14:45:28,582 INFO Starting MQTT Macropad
+2025-07-12 14:45:28,723 INFO Loaded plugin: BasePlugin
+2025-07-12 14:45:28,724 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:45:28,730 INFO Loaded plugin: BasePlugin
+2025-07-12 14:45:28,731 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:45:42,565 INFO Starting MQTT Macropad
+2025-07-12 14:45:42,605 INFO Loaded plugin: BasePlugin
+2025-07-12 14:45:42,605 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:45:42,611 INFO Loaded plugin: BasePlugin
+2025-07-12 14:45:42,611 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:45:42,657 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:45:42,658 INFO Subscribed to topic: macropad/+
+2025-07-12 14:45:48,185 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:45:48,186 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:45:48,186 WARNING Folder not found in configured root folders: system
+2025-07-12 14:45:48,186 INFO Available root folders: ['default_macros']
+2025-07-12 14:46:52,007 INFO Starting MQTT Macropad
+2025-07-12 14:46:52,037 INFO Loaded plugin: BasePlugin
+2025-07-12 14:46:52,037 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:46:52,044 INFO Loaded plugin: BasePlugin
+2025-07-12 14:46:52,044 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:46:52,059 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:46:52,060 INFO Subscribed to topic: macropad/+
+2025-07-12 14:46:54,196 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:46:54,196 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:46:54,197 WARNING Folder not found in configured root folders: system
+2025-07-12 14:46:54,197 INFO Available root folders: ['default_macros']
+2025-07-12 14:47:24,855 INFO Starting MQTT Macropad
+2025-07-12 14:47:24,892 INFO Loaded plugin: BasePlugin
+2025-07-12 14:47:24,893 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:47:24,898 INFO Loaded plugin: BasePlugin
+2025-07-12 14:47:24,898 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:47:24,936 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:47:24,937 INFO Subscribed to topic: macropad/+
+2025-07-12 14:47:26,586 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:47:26,586 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:47:26,586 INFO Checking root folder: default_macros
+2025-07-12 14:47:26,587 WARNING Folder not found in configured root folders: system
+2025-07-12 14:47:26,587 INFO Available root folders: ['default_macros']
+2025-07-12 14:47:43,714 INFO Starting MQTT Macropad
+2025-07-12 14:47:43,733 INFO Loaded plugin: BasePlugin
+2025-07-12 14:47:43,734 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:47:43,741 INFO Loaded plugin: BasePlugin
+2025-07-12 14:47:43,741 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:47:43,755 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:47:43,755 INFO Subscribed to topic: macropad/+
+2025-07-12 14:47:45,266 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:47:45,267 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:47:45,267 INFO Checking root folder: ./macros/default_macros
+2025-07-12 14:47:45,267 WARNING Folder not found in configured root folders: system
+2025-07-12 14:47:45,268 INFO Available root folders: ['default_macros']
+2025-07-12 14:48:08,728 INFO Starting MQTT Macropad
+2025-07-12 14:48:08,762 INFO Loaded plugin: BasePlugin
+2025-07-12 14:48:08,762 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:48:08,768 INFO Loaded plugin: BasePlugin
+2025-07-12 14:48:08,768 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:48:08,785 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:48:08,785 INFO Subscribed to topic: macropad/+
+2025-07-12 14:48:10,525 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:48:10,525 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:48:10,526 INFO Checking root folder: ./macros/default_macros
+2025-07-12 14:48:10,526 INFO Checking for folder: ./macros/default_macros\system
+2025-07-12 14:48:10,526 WARNING Folder not found in configured root folders: system
+2025-07-12 14:48:10,526 INFO Available root folders: ['default_macros']
+2025-07-12 14:48:54,313 INFO Starting MQTT Macropad
+2025-07-12 14:48:54,332 INFO Loaded plugin: BasePlugin
+2025-07-12 14:48:54,332 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:48:54,339 INFO Loaded plugin: BasePlugin
+2025-07-12 14:48:54,339 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:48:54,371 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:48:54,372 INFO Subscribed to topic: macropad/+
+2025-07-12 14:48:57,025 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:48:57,025 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:48:57,026 INFO Checking root folder: ./macros/default_macros
+2025-07-12 14:48:57,026 INFO Checking for folder: ./macros/default_macros\system
+2025-07-12 14:48:57,026 ERROR Error handling MQTT message: [WinError 3] The system cannot find the path specified: './macros/default_macros\\system'
+Traceback (most recent call last):
+  File "c:\Users\arppu\Python\mqtt_macropad\core\mqtt.py", line 55, in on_message
+    os.mkdir(folder_path)  # Ensure the folder exists
+    ~~~~~~~~^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] The system cannot find the path specified: './macros/default_macros\\system'
+2025-07-12 14:49:47,432 INFO Starting MQTT Macropad
+2025-07-12 14:49:47,475 INFO Loaded plugin: BasePlugin
+2025-07-12 14:49:47,475 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:49:47,480 INFO Loaded plugin: BasePlugin
+2025-07-12 14:49:47,480 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:49:47,494 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:49:47,494 INFO Subscribed to topic: macropad/+
+2025-07-12 14:49:49,560 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:49:49,561 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:49:49,562 INFO Checking root folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros
+2025-07-12 14:49:49,562 INFO Checking for folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\system
+2025-07-12 14:49:49,676 INFO Executed macro: lock from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\system
+2025-07-12 14:52:17,702 INFO Received MQTT message: topic=macropad/keyboard, payload=b'hello_world'
+2025-07-12 14:52:17,702 INFO Processing: folder_name=keyboard, macro_id=hello_world
+2025-07-12 14:52:17,703 INFO Checking root folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros
+2025-07-12 14:52:17,703 INFO Checking for folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\keyboard
+2025-07-12 14:52:19,056 INFO Executed macro: hello_world from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\keyboard
+2025-07-12 14:52:51,144 INFO Received MQTT message: topic=macropad/keyboard, payload=b'hello_world'
+2025-07-12 14:52:51,149 INFO Processing: folder_name=keyboard, macro_id=hello_world
+2025-07-12 14:52:51,150 INFO Checking root folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros
+2025-07-12 14:52:51,150 INFO Checking for folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\keyboard
+2025-07-12 14:52:52,469 INFO Executed macro: hello_world from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\keyboard
+2025-07-12 14:53:17,787 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 14:53:17,787 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 14:53:17,788 INFO Checking root folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros
+2025-07-12 14:53:17,788 INFO Checking for folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\system
+2025-07-12 14:53:17,874 INFO Executed macro: lock from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\system
+2025-07-12 14:58:16,139 INFO Starting MQTT Macropad
+2025-07-12 14:58:16,166 INFO Loaded plugin: BasePlugin
+2025-07-12 14:58:16,167 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 14:58:16,179 INFO Loaded plugin: BasePlugin
+2025-07-12 14:58:16,180 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 14:58:16,203 INFO Connected to MQTT broker with result code Success
+2025-07-12 14:58:16,203 INFO Subscribed to topic: macropad/+
+2025-07-12 15:01:50,495 INFO Received MQTT message: topic=macropad/system, payload=b'lock'
+2025-07-12 15:01:50,496 INFO Processing: folder_name=system, macro_id=lock
+2025-07-12 15:01:50,612 INFO Executed macro: lock from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\system
+2025-07-12 15:02:07,731 INFO Received MQTT message: topic=macropad/, payload=b''
+2025-07-12 15:02:07,732 INFO Processing: folder_name=, macro_id=
+2025-07-12 15:02:07,733 WARNING Macro not found: folder=C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\, id=
+2025-07-12 15:14:07,150 INFO Received MQTT message: topic=macropad/krita, payload=b'new'
+2025-07-12 15:14:07,150 INFO Processing: folder_name=krita, macro_id=new
+2025-07-12 15:14:07,592 INFO Executed macro: new from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:14:20,155 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:14:20,157 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:14:20,189 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:14:21,076 INFO Received MQTT message: topic=macropad/krita, payload=b'redo'
+2025-07-12 15:14:21,077 INFO Processing: folder_name=krita, macro_id=redo
+2025-07-12 15:14:21,100 INFO Executed macro: redo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:14:21,529 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:14:21,530 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:14:21,535 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:14:21,997 INFO Received MQTT message: topic=macropad/krita, payload=b'redo'
+2025-07-12 15:14:21,998 INFO Processing: folder_name=krita, macro_id=redo
+2025-07-12 15:14:22,004 INFO Executed macro: redo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:15:06,749 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:15:06,750 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:15:06,777 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:15:10,159 INFO Received MQTT message: topic=macropad/krita, payload=b'brush'
+2025-07-12 15:15:10,161 INFO Processing: folder_name=krita, macro_id=brush
+2025-07-12 15:15:10,167 INFO Executed macro: brush from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:15:18,977 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:15:18,978 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:15:18,984 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:15:21,653 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:15:21,654 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:15:21,658 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:38,518 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:19:38,520 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:19:38,549 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:38,822 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:19:38,823 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:19:38,826 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:38,962 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:19:38,963 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:19:38,966 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:40,407 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:19:40,408 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:19:40,412 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:40,871 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:40,872 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:40,878 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:41,156 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:41,157 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:41,160 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:41,355 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:41,355 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:41,357 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:46,347 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:46,348 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:46,352 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:46,609 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:46,610 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:46,612 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:46,790 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:46,790 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:46,793 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:46,976 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:46,976 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:46,979 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:47,221 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:47,222 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:47,225 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:47,424 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:47,425 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:47,428 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:47,578 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:47,580 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:47,583 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:47,754 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:19:47,755 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:19:47,758 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:19:49,323 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:19:49,323 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:19:49,327 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:16,508 INFO Received MQTT message: topic=macropad/, payload=b''
+2025-07-12 15:20:16,509 INFO Processing: folder_name=, macro_id=
+2025-07-12 15:20:16,510 WARNING Macro not found: folder=C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\, id=
+2025-07-12 15:20:24,948 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:24,949 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:24,953 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:25,151 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:25,152 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:25,155 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:25,308 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:25,309 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:25,313 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:25,518 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:25,519 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:25,522 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:25,637 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:25,638 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:25,641 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:25,811 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:25,812 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:25,815 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:26,025 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:26,026 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:26,030 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:26,229 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:26,230 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:26,234 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:27,671 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:20:27,672 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:20:27,676 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:28,693 INFO Received MQTT message: topic=macropad/krita, payload=b'brush'
+2025-07-12 15:20:28,694 INFO Processing: folder_name=krita, macro_id=brush
+2025-07-12 15:20:28,697 INFO Executed macro: brush from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:30,327 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:30,328 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:30,332 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:30,637 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:30,638 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:30,642 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:30,692 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:30,692 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:30,697 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:30,945 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:30,946 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:30,950 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:31,049 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:31,050 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:31,054 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:31,354 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:31,354 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:31,358 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:31,414 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:31,415 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:31,417 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:31,663 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:31,664 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:31,668 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:32,169 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:32,169 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:32,171 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:32,286 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:32,287 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:32,290 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:32,585 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:32,586 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:32,589 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:32,664 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:32,665 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:32,668 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:32,988 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:32,989 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:32,992 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:33,177 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:33,177 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:33,181 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:49,078 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:20:49,079 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:20:49,083 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:49,893 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:49,894 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:49,898 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:49,974 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:49,975 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:49,978 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:50,139 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:50,139 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:50,142 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:50,314 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:50,315 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:50,318 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:50,462 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:50,462 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:50,466 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:50,707 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:50,708 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:50,711 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:50,854 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:50,855 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:50,859 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:51,010 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:51,010 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:51,013 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:51,304 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:51,305 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:51,309 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:51,418 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:51,419 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:51,422 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:52,425 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:52,425 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:52,428 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:52,757 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:52,758 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:52,761 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:52,816 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:52,817 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:52,819 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:52,969 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:52,969 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:52,972 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:53,199 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:53,200 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:53,203 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:53,406 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:20:53,406 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:20:53,410 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:58,028 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:58,029 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:58,032 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:58,232 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:58,233 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:58,236 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:20:58,493 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:20:58,494 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:20:58,497 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:00,841 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:21:00,841 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:21:00,844 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:01,152 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:21:01,153 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:21:01,156 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:01,256 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:21:01,256 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:21:01,259 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:01,462 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:21:01,463 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:21:01,467 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:01,608 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:21:01,608 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:21:01,611 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:01,835 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:21:01,835 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:21:01,837 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:02,015 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:21:02,016 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:21:02,018 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:02,180 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:21:02,180 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:21:02,184 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:02,324 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:21:02,324 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:21:02,328 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:02,549 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:21:02,549 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:21:02,553 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:03,610 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:21:03,611 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:21:03,614 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:21:11,498 INFO Received MQTT message: topic=macropad/, payload=b''
+2025-07-12 15:21:11,499 INFO Processing: folder_name=, macro_id=
+2025-07-12 15:21:11,500 WARNING Macro not found: folder=C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\, id=
+2025-07-12 15:31:23,295 INFO Connected to MQTT broker with result code Success
+2025-07-12 15:31:23,392 INFO Subscribed to topic: macropad/+
+2025-07-12 15:33:30,725 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:33:30,728 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:33:30,735 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:34:58,356 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:34:58,357 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:34:58,362 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:35:51,010 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:35:51,011 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:35:51,015 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:35:51,954 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:35:51,954 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:35:51,959 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:36:15,075 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:36:15,076 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:36:15,081 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:36:27,977 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:36:27,978 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:36:27,985 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:36:29,543 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:36:29,545 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:36:29,552 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:36:57,271 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:36:57,272 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:36:57,276 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:37:06,057 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:37:06,058 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:37:06,064 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:37:31,874 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:37:31,875 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:37:31,881 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:37:49,900 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:37:49,901 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:37:49,908 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:38:44,067 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:38:44,067 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:38:44,073 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:38:55,229 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:38:55,230 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:38:55,235 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:38:58,136 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:38:58,137 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:38:58,144 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:39:06,157 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:39:06,158 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:39:06,163 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:39:11,306 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:39:11,308 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:39:11,314 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:39:38,749 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:39:38,751 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:39:38,756 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:39:42,349 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:39:42,350 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:39:42,354 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:40:27,363 INFO Received MQTT message: topic=macropad/, payload=b''
+2025-07-12 15:40:27,364 INFO Processing: folder_name=, macro_id=
+2025-07-12 15:40:27,365 WARNING Macro not found: folder=C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\, id=
+2025-07-12 15:40:27,409 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:40:27,410 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:40:27,414 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:40:27,416 INFO Received MQTT message: topic=macropad/, payload=b''
+2025-07-12 15:40:27,416 INFO Processing: folder_name=, macro_id=
+2025-07-12 15:40:27,418 WARNING Macro not found: folder=C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\, id=
+2025-07-12 15:40:27,418 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:40:27,419 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:40:27,423 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:40:28,006 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:40:28,007 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:40:28,011 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:40:32,601 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:40:32,602 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:40:32,606 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:40:41,727 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:40:41,727 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:40:41,732 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:40:43,977 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:40:43,979 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:40:43,984 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:40:46,025 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:40:46,026 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:40:46,032 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:41:28,481 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:41:28,482 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:41:28,487 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:41:29,343 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:41:29,344 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:41:29,345 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:41:30,979 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:41:30,980 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:41:30,984 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:41:33,590 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:41:33,591 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:41:33,594 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:41:55,109 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:41:55,111 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:41:55,118 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:41:55,783 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:41:55,783 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:41:55,789 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:41:56,336 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:41:56,337 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:41:56,344 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:41:57,123 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:41:57,125 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:41:57,130 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:41:57,910 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:41:57,911 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:41:57,916 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:41:58,946 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:41:58,947 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:41:58,952 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:42:21,167 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:42:21,169 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:42:21,173 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:42:21,359 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:42:21,360 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:42:21,364 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:42:21,564 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:42:21,565 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:42:21,569 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:42:21,871 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:42:21,872 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:42:21,877 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:42:22,053 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:42:22,054 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:42:22,057 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:42:51,465 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:42:51,466 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:42:51,470 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:43:00,718 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:43:00,719 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:43:00,724 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:43:21,794 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:43:21,796 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:43:21,800 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:43:31,146 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:43:31,147 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:43:31,152 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:44:01,508 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:44:01,509 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:44:01,514 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:44:09,494 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:44:09,494 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:44:09,499 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:44:17,382 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:44:17,383 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:44:17,389 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:44:36,117 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:44:36,117 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:44:36,123 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:44:43,697 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:44:43,699 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:44:43,705 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:44:44,311 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:44:44,312 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:44:44,318 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:44:44,926 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:44:44,927 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:44:44,932 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:44:45,540 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:44:45,541 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:44:45,547 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:44:46,089 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:44:46,090 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:44:46,095 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:44:51,077 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:44:51,078 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:44:51,084 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:45:01,924 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:45:01,925 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:45:01,930 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:45:18,820 INFO Received MQTT message: topic=macropad/krita, payload=b'brush'
+2025-07-12 15:45:18,823 INFO Processing: folder_name=krita, macro_id=brush
+2025-07-12 15:45:18,829 INFO Executed macro: brush from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:45:48,720 INFO Received MQTT message: topic=macropad/krita, payload=b'brush'
+2025-07-12 15:45:48,721 INFO Processing: folder_name=krita, macro_id=brush
+2025-07-12 15:45:48,726 INFO Executed macro: brush from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:27,429 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:27,430 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:27,436 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:27,764 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:27,765 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:27,770 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:28,148 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:28,149 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:28,155 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:28,299 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:28,300 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:28,305 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:28,478 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:28,479 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:28,485 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:28,686 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:28,687 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:28,693 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:28,807 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:28,808 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:28,814 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:29,048 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:29,049 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:29,054 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:29,174 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:29,180 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:29,188 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:29,573 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:29,574 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:29,579 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:29,869 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:29,870 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:29,875 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:30,472 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:30,473 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:30,479 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:31,588 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:31,589 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:31,595 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:32,342 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:32,343 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:32,349 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:32,594 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:32,595 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:32,601 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:34,289 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:46:34,290 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:46:34,296 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:44,939 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:46:44,942 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:46:44,948 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:58,396 INFO Received MQTT message: topic=macropad/krita, payload=b'brush'
+2025-07-12 15:46:58,397 INFO Processing: folder_name=krita, macro_id=brush
+2025-07-12 15:46:58,401 INFO Executed macro: brush from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:46:59,685 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:46:59,686 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:46:59,692 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:47:49,869 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:47:49,870 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:47:49,875 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:48:01,228 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:48:01,229 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:48:01,234 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:48:11,978 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:48:11,979 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:48:11,985 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:48:25,085 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:48:25,086 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:48:25,091 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:48:54,372 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:48:54,373 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:48:54,377 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:49:00,618 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:49:00,619 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:49:00,624 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:49:09,150 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:49:09,151 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:49:09,157 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:49:20,414 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:49:20,415 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:49:20,419 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:49:26,374 INFO Received MQTT message: topic=macropad/krita, payload=b'redo'
+2025-07-12 15:49:26,375 INFO Processing: folder_name=krita, macro_id=redo
+2025-07-12 15:49:26,382 INFO Executed macro: redo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:49:48,106 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:49:48,107 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:49:48,114 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:50:11,382 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:50:11,383 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:50:11,388 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:50:46,421 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:50:46,421 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:50:46,426 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:50:50,534 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:50:50,535 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:50:50,540 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:51:14,356 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:51:14,358 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:51:14,365 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:51:22,751 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:51:22,752 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:51:22,758 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:51:24,255 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:51:24,256 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:51:24,262 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:51:31,283 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:51:31,284 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:51:31,289 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:51:41,497 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:51:41,498 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:51:41,504 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:51:54,785 INFO Received MQTT message: topic=macropad/krita, payload=b'brush'
+2025-07-12 15:51:54,786 INFO Processing: folder_name=krita, macro_id=brush
+2025-07-12 15:51:54,790 INFO Executed macro: brush from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:51:56,132 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:51:56,132 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:51:56,137 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:52:20,194 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:52:20,195 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:52:20,202 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:52:22,445 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:52:22,446 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:52:22,452 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:52:23,166 INFO Received MQTT message: topic=macropad/krita, payload=b'redo'
+2025-07-12 15:52:23,167 INFO Processing: folder_name=krita, macro_id=redo
+2025-07-12 15:52:23,175 INFO Executed macro: redo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:52:35,312 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:52:35,313 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:52:35,317 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:52:37,810 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:52:37,811 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:52:37,815 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:01,365 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:53:01,367 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:53:01,375 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:02,799 INFO Received MQTT message: topic=macropad/krita, payload=b'undo'
+2025-07-12 15:53:02,800 INFO Processing: folder_name=krita, macro_id=undo
+2025-07-12 15:53:02,806 INFO Executed macro: undo from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:38,127 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:53:38,128 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:53:38,132 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:38,291 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:53:38,292 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:53:38,296 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:38,565 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:53:38,565 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:53:38,569 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:38,711 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:53:38,712 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:53:38,717 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:38,942 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:53:38,944 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:53:38,948 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:39,147 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:53:39,148 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:53:39,151 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:39,290 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:53:39,290 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:53:39,295 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:39,453 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:53:39,454 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:53:39,459 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:39,726 INFO Received MQTT message: topic=macropad/krita, payload=b'increase_brush_size'
+2025-07-12 15:53:39,727 INFO Processing: folder_name=krita, macro_id=increase_brush_size
+2025-07-12 15:53:39,730 INFO Executed macro: increase_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:59,102 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:53:59,103 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:53:59,107 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:59,320 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:53:59,321 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:53:59,325 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:59,467 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:53:59,468 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:53:59,473 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:59,731 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:53:59,731 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:53:59,735 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:53:59,813 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:53:59,813 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:53:59,817 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:54:00,036 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:54:00,036 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:54:00,041 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:54:00,187 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:54:00,188 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:54:00,192 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:54:00,446 INFO Received MQTT message: topic=macropad/krita, payload=b'decrease_brush_size'
+2025-07-12 15:54:00,446 INFO Processing: folder_name=krita, macro_id=decrease_brush_size
+2025-07-12 15:54:00,451 INFO Executed macro: decrease_brush_size from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:54:01,265 INFO Received MQTT message: topic=macropad/krita, payload=b'eraser'
+2025-07-12 15:54:01,266 INFO Processing: folder_name=krita, macro_id=eraser
+2025-07-12 15:54:01,271 INFO Executed macro: eraser from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:54:31,167 INFO Received MQTT message: topic=macropad/krita, payload=b'save_as'
+2025-07-12 15:54:31,167 INFO Processing: folder_name=krita, macro_id=save_as
+2025-07-12 15:54:31,175 INFO Executed macro: save_as from folder: C:\Users\arppu\Python\mqtt_macropad\macros\default_macros\krita
+2025-07-12 15:56:46,380 INFO Exiting program...

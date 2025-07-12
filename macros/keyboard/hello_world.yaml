@@ -1,0 +1,5 @@
+plugin: KeyboardActionsPlugin
+params:
+  action: type
+  text: "Hello, world!"
+description: "Types out 'Hello, world!' using the keyboard plugin"

@@ -1,5 +1,5 @@
 mqtt:
-  broker: 
+  broker:
   port: 1883
   topic_prefix: glyphic
   username: ""  # Optional
@@ -15,6 +15,6 @@ logging:
 
 macros:
   folders:
-    - ./macros
+    - macros
   auto_reload: true
   reload_interval: 30

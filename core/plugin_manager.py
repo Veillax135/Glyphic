@@ -10,7 +10,7 @@ class PluginManager:
         plugins_dir = os.path.join(os.path.dirname(__file__), '..', 'plugins')
         for fname in os.listdir(plugins_dir):
             if fname.endswith('.py') and not fname.startswith('_'):
-                module_name = f"plugins.default_plugins.{fname[:-3]}"
+                module_name = f"plugins.{fname[:-3]}"
                 try:
                     module = importlib.import_module(module_name)
                     for attr in dir(module):

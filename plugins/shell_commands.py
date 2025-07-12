@@ -1,7 +1,7 @@
 import subprocess
 from plugins.base import BasePlugin
 
-class ShellCommandPlugin(BasePlugin):
+class Shell(BasePlugin):
     def execute(self, params):
         command = params.get('command')
         if command:

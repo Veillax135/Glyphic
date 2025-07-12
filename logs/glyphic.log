@@ -1,0 +1,37 @@
+2025-07-12 17:17:34,922 INFO Starting MQTT Macropad
+2025-07-12 17:17:34,923 ERROR Failed to load plugin base.py: No module named 'plugins.default_plugins'
+2025-07-12 17:17:34,923 ERROR Failed to load plugin keyboard_actions.py: No module named 'plugins.default_plugins'
+2025-07-12 17:17:34,924 ERROR Failed to load plugin shell_commands.py: No module named 'plugins.default_plugins'
+2025-07-12 17:22:14,215 INFO Starting MQTT Macropad
+2025-07-12 17:22:14,217 ERROR Failed to load plugin base.py: No module named 'plugins.default_plugins'
+2025-07-12 17:22:14,217 ERROR Failed to load plugin keyboard_actions.py: No module named 'plugins.default_plugins'
+2025-07-12 17:22:14,218 ERROR Failed to load plugin shell_commands.py: No module named 'plugins.default_plugins'
+2025-07-12 17:23:15,551 INFO Starting MQTT Macropad
+2025-07-12 17:23:15,553 ERROR Failed to load plugin base.py: No module named 'plugins.default_plugins'
+2025-07-12 17:23:15,553 ERROR Failed to load plugin keyboard_actions.py: No module named 'plugins.default_plugins'
+2025-07-12 17:23:15,553 ERROR Failed to load plugin shell_commands.py: No module named 'plugins.default_plugins'
+2025-07-12 17:23:54,100 INFO Restarting program...
+2025-07-12 17:23:54,457 INFO Starting MQTT Macropad
+2025-07-12 17:23:54,459 ERROR Failed to load plugin base.py: No module named 'plugins.default_plugins'
+2025-07-12 17:23:54,459 ERROR Failed to load plugin keyboard_actions.py: No module named 'plugins.default_plugins'
+2025-07-12 17:23:54,460 ERROR Failed to load plugin shell_commands.py: No module named 'plugins.default_plugins'
+2025-07-12 17:23:54,514 INFO Connected to MQTT broker with result code Success
+2025-07-12 17:23:54,515 INFO Subscribed to topic: glyphic/+
+2025-07-12 17:24:33,794 INFO Restarting program...
+2025-07-12 17:24:34,131 INFO Starting MQTT Macropad
+2025-07-12 17:24:34,133 INFO Loaded plugin: BasePlugin
+2025-07-12 17:24:34,142 INFO Loaded plugin: BasePlugin
+2025-07-12 17:24:34,143 INFO Loaded plugin: KeyboardActionsPlugin
+2025-07-12 17:24:34,151 INFO Loaded plugin: BasePlugin
+2025-07-12 17:24:34,151 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 17:24:34,198 INFO Connected to MQTT broker with result code Success
+2025-07-12 17:24:34,200 INFO Subscribed to topic: glyphic/+
+2025-07-12 17:25:02,230 INFO Restarting program...
+2025-07-12 17:25:02,622 INFO Starting MQTT Macropad
+2025-07-12 17:25:02,624 INFO Loaded plugin: BasePlugin
+2025-07-12 17:25:02,679 INFO Loaded plugin: BasePlugin
+2025-07-12 17:25:02,680 INFO Loaded plugin: Keyboard
+2025-07-12 17:25:02,691 INFO Loaded plugin: BasePlugin
+2025-07-12 17:25:02,692 INFO Loaded plugin: ShellCommandPlugin
+2025-07-12 17:25:02,740 INFO Connected to MQTT broker with result code Success
+2025-07-12 17:25:02,740 INFO Subscribed to topic: glyphic/+

@@ -4,7 +4,7 @@ import time
 from typing import List, Union
 
 
-class KeyboardActionsPlugin(BasePlugin):
+class Keyboard(BasePlugin):
     def __init__(self):
         super().__init__()
         self.valid_actions = ['press', 'release', 'type', 'hotkey']

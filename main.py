@@ -36,11 +36,10 @@ def setup_logging(config):
     console_handler.setFormatter(formatter)
     root_logger.addHandler(console_handler)
 
-def create_image():
-    # Simple icon: black circle on white background
-    image = Image.new('RGB', (64, 64), "white")
+def get_image():
+    ico = "res/glyphic.png"
+    image = Image.open(ico) if os.path.exists(ico) else Image.new('RGB', (64, 64), color='white')
     draw = ImageDraw.Draw(image)
-    draw.ellipse((16, 16, 48, 48), fill="black")
     return image
 
 class App:
@@ -58,7 +57,7 @@ class App:
         )
         self.mqtt_thread = threading.Thread(target=self.mqtt_listener.start, daemon=True)
         self.mqtt_thread.start()
-        self.icon = pystray.Icon("MQTT Macropad", create_image(), "MQTT Macropad", self.create_menu())
+        self.icon = pystray.Icon("MQTT Macropad", get_image(), "MQTT Macropad", self.create_menu())
 
     def create_menu(self):
         return pystray.Menu(

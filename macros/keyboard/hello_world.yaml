@@ -1,4 +1,4 @@
-plugin: KeyboardActionsPlugin
+plugin: Keyboard
 params:
   action: type
   text: "Hello, world!"
